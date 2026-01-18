@@ -1,4 +1,4 @@
-# Persona-Driven Document Intelligence (Adobe Hackathon - Challenge 1B)
+# Persona-Driven Document Intelligence 
 
 This project is a sophisticated solution for Challenge 1B of the Adobe India Hackathon. It implements an advanced Retrieval-Augmented Generation (RAG) pipeline to analyze multiple document collections and extract relevant, persona-driven insights.
 
